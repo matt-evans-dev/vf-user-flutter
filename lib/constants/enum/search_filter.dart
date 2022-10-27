@@ -1,0 +1,4 @@
+enum SearchFilter {
+  Foods,
+  Restaurants,
+}

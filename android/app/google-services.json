@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "356185365742",
+    "firebase_url": "https://vuaci-user.firebaseio.com",
+    "project_id": "vuaci-user",
+    "storage_bucket": "vuaci-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356185365742:android:0bb5632fb23cad9cf367ff",
+        "android_client_info": {
+          "package_name": "com.merchant.vuacifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356185365742-ns17bme8sti4j3qdake8g04uih6512hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7WJlnaecKulojAgULB5KtTt05WaOJXR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356185365742-ns17bme8sti4j3qdake8g04uih6512hr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356185365742-4u1hm6385lgon0rg42of3gd0gu6u21ik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.userapp.vuacifood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356185365742:android:9116590c057040dbf367ff",
+        "android_client_info": {
+          "package_name": "com.userapp.vuacifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356185365742-ns17bme8sti4j3qdake8g04uih6512hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7WJlnaecKulojAgULB5KtTt05WaOJXR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356185365742-ns17bme8sti4j3qdake8g04uih6512hr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356185365742-4u1hm6385lgon0rg42of3gd0gu6u21ik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.userapp.vuacifood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356185365742:android:5ebe250035544f50f367ff",
+        "android_client_info": {
+          "package_name": "com.vuacimerchant.vuacifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356185365742-ns17bme8sti4j3qdake8g04uih6512hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7WJlnaecKulojAgULB5KtTt05WaOJXR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356185365742-ns17bme8sti4j3qdake8g04uih6512hr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356185365742-4u1hm6385lgon0rg42of3gd0gu6u21ik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.userapp.vuacifood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

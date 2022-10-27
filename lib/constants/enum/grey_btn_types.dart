@@ -1,0 +1,4 @@
+enum GreyButtonType {
+  time,
+  price,
+}

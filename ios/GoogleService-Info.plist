@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>356185365742-4u1hm6385lgon0rg42of3gd0gu6u21ik.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.356185365742-4u1hm6385lgon0rg42of3gd0gu6u21ik</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>356185365742-lmdj695oqmst6un0unen6ift2od3q26q.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyANm0Nya_EotiFbB4hRlZTqzeoD1gYGU_U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>356185365742</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.userapp.vuacifood</string>
+	<key>PROJECT_ID</key>
+	<string>vuaci-user</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vuaci-user.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:356185365742:ios:d40a892fa38a3226f367ff</string>
+	<key>DATABASE_URL</key>
+	<string>https://vuaci-user.firebaseio.com</string>
+</dict>
+</plist>

@@ -44,15 +44,4 @@ To contribute to this project, follow these steps:
 - [Stacked](https://pub.dev/packages/stacked) MVVM pattern
 - [Provider](https://pub.dev/packages/provider)
 
-## Contributors
-
-Thanks to the following people who have contributed to this project:
-
-* [@vuacifood](https://github.com/vuacifood) 💼
-* [@cloudy-ninja](https://github.com/cloudy-ninja) 💻
-* [@JFmagicoder](https://github.com/JFmagicoder) 💻
-
-## Contact
-
-If you want to contact me you can reach me at msr.wn.327@gmail.com.
 

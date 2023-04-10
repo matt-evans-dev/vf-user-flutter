@@ -43,5 +43,3 @@ To contribute to this project, follow these steps:
 
 - [Stacked](https://pub.dev/packages/stacked) MVVM pattern
 - [Provider](https://pub.dev/packages/provider)
-
-
